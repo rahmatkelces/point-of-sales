@@ -74,7 +74,7 @@ php artisan serve
 
 **### Default Login**
 
--   ****Admin****: `[arya@gmail.com](mailto:arya@gmail.com)` / `password`
+-   ****Admin****: `[admin@gmail.com](mailto:admin@gmail.com)` / `password`
 
 -   ****Kasir****: `[cashier@gmail.com](mailto:cashier@gmail.com)` / `password`
 
